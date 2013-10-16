@@ -1,7 +1,4 @@
-String apiKey= "AIzaSyC6Nikc4HTkRkPksWkEbPj3PIPcXhatIt8";
-
 String urlStem = "http://maps.googleapis.com/maps/api/streetview?";
-//String fullUrl = "http://maps.googleapis.com/maps/api/streetview?size=400x400&location=40.720032,-73.988354&sensor=false&key=";
 
 PImage[] imgs;
 int numHeadings = 4;
